@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #12769E;
+    color: white;
+  
+    height: 95px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-right: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.logo{
+    display: flex;
+    align-items: flex-start;
+    height: 60px;
+    width: 60px;
+}

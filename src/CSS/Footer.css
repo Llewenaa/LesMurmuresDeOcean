@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Footer {
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+    background-color: #12769E;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-top: 50px;
+}
+
+p{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo{
+    display: flex;
+    align-items: flex-end;
+    height: 60px;
+    width: 60px;
+}

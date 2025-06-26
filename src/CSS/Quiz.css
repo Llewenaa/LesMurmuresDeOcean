@@ -1,0 +1,128 @@
+body{
+    background-image: url("/src/assets/fond.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.Quiz-title {
+    background-color: #003C57;
+    border-radius: 60px;
+    margin-left: 650px;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+
+
+.question{
+    padding: 50px;
+    font-size: 30px;
+    border-radius: 60px;
+    background-color: #003C57;
+    color: whitesmoke;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.question-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    
+}
+
+.answers-grid {
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 20px;
+    height: 200px;
+    border-radius: 60px;
+    margin-top: 60px;
+    
+}
+
+.answer-button {
+    padding: 10px;
+    background-color: #007198;
+    color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 28px;
+    transition: background-color 0.3s ease;
+    font-family: cursive;
+}
+
+.answer-button:hover {
+    background-color: #B6D8F2;
+    color: black;
+}
+
+.popup{  
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #597f9f;
+    color: whitesmoke;
+    padding: 20px;
+    z-index: 1000;
+}
+
+.popup-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    color: whitesmoke;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.valide{
+    height: 40px;
+    width: 55px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 22px;
+    background-color: rgb(28, 45, 195);
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+    
+.valide:hover{
+    background-color: #19569c;
+    color:whitesmoke;
+} 
+
+.score{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.explication{
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 50px;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

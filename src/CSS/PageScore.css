@@ -1,0 +1,56 @@
+body{
+    background-image: url("/src/assets/fond.png");
+    background-size: cover;
+    background-position: center;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+.tortue{
+    position: absolute;
+    top: 80px;
+    right: 56px;
+    width: 400px;
+    height: 400px;
+    background-image: url("/src/assets/tortue.png");
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    transform: rotate(20deg);
+}
+
+.PageScore {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Score-title {
+    border-radius: 60px;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 40px;
+    
+}
+
+.Score-text{
+    font-size: 35px;
+    color: whitesmoke;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* transform: rotate(40deg); */
+    
+}
+

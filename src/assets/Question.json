@@ -1,0 +1,116 @@
+    {
+  "questions": [
+    {
+      "question": "Quel est le plus grand mammifère marin ?",
+      "answers": [
+        "Baleine bleue",
+        "Grand requin blanc",
+        "Orque",
+        "Dauphin"
+      ],
+      "correctAnswer": "Baleine bleue", 
+      "explication": "La baleine bleue est le plus grand mammifère marin et peut atteindre jusqu'à 30 mètres de long."
+    },
+    {
+      "question": "Quel est le poisson le plus rapide des océans ?",
+      "answers": [
+        "Le barracuda",
+        "Le voilier Atlantique",
+        "Le thon rouge",
+        "Espadon"
+      ],
+      "correctAnswer": "Le voilier Atlantique",
+      "explication": "Le voilier Atlantique est connu pour sa vitesse incroyable, atteignant jusqu'à 68 km/h."
+    },
+    {
+      "question": "Quel est le plus grand poisson du monde ?",
+      "answers": [
+        "Le requin baleine",
+        "Le thon rouge",
+        "Le poisson-lune",
+        "Le marlin"
+      ],
+      "correctAnswer": "Le requin baleine",
+      "explication": "Le requin baleine peut atteindre une longueur de 12 mètres et est le plus grand poisson vivant."
+    },
+    {
+      "question": "Quel animal marin possède huit bras ?",
+      "answers": [
+        "Le poulpe",
+        "L'étoile de mer",
+        "La méduse",
+        "Le calmar"
+      ],
+      "correctAnswer": "Le poulpe",
+      "explication": "Le poulpe est un céphalopode connu pour ses huit bras et sa grande intelligence."
+    },
+    {
+      "question": "Quel animal marin est connu pour sa carapace et sa longue durée de vie ?",
+      "answers": [
+        "Le crabe",
+        "Le homard",
+        "La tortue marine",
+        "Le bernard-l’ermite"
+      ],
+      "correctAnswer": "La tortue marine",
+      "explication": "La tortue marine est connue pour sa carapace dure et sa longévité, pouvant vivre jusqu'à 100 ans."
+    },
+    {
+      "question": "Quel est le principal mode de défense de la seiche ?",
+      "answers": [
+        "L’électricité",
+        "Les dents acérées",
+        "La fuite rapide",
+        "L’encre noire"
+      ],
+      "correctAnswer": "L’encre noire",
+      "explication": "L’encre noire est le principal mode de défense de la seiche, lui permettant de s'échapper rapidement."
+    },
+    {
+      "question": "Quelle espèce de dauphin est connue pour son 'nez' long et fin ?",
+      "answers": [
+        "Le dauphin commun",
+        "Le marsouin",
+        "Le dauphin à bec étroit",
+        "Le dauphin rose d’Amazonie"
+      ],
+      "correctAnswer": "Le dauphin à bec étroit",
+      "explication": "Le dauphin à bec étroit est connu pour son long et fin nez, qui lui permet de chasser efficacement dans les eaux peu profondes."
+    },
+    {
+      "question": "Quel crustacé est capable de claquer ses pinces à une vitesse supersonique ?",
+      "answers": [
+        "La crevette-mante",
+        "Le homard",
+        "Le crabe royal",
+        "La langoustine"
+      ],
+      "correctAnswer": "La crevette-mante",
+      "explication": "La crevette-mante peut claquer ses pinces à une vitesse supersonique, créant une bulle de cavitation qui peut assommer ses proies."
+    },
+    {
+      "question": "Quel animal marin a un squelette externe appelé exosquelette ?",
+      "answers": [
+        "Le requin",
+        "La méduse",
+        "Le crabe",
+        "Le dauphin"
+      ],
+      "correctAnswer": "Le crabe",
+      "explication": "Le crabe possède un exosquelette dur qui le protège et lui permet de se déplacer sur le fond marin."
+    },
+    {
+      "question": "Quelle espèce de poisson est célèbre pour sa lumière sur la tête, utilisée pour attirer ses proies ?",
+      "answers": [
+        "Le poisson-lanterne",
+        "Le mérou",
+        "Le poisson-globe",
+        "Le poisson-clown"
+      ],
+      "correctAnswer": "Le poisson-lanterne",
+      "explication": "Le poisson-lanterne possède une lumière bioluminescente sur sa tête, qui lui permet d'attirer ses proies dans les profondeurs sombres de l'océan."
+    }
+  ]
+}
+
+
