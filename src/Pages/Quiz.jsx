@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react'
 import '../css/Quiz.css'
+import App from '../App';
 
 
+<App score={score} setScore={setScore} numeroQuestions={numeroQuestions} setNumeroQuestions={setNumeroQuestions} setQuizFini={setQuizFini} />
 
 function Quiz({ score, setScore, numeroQuestions, setNumeroQuestions, setQuizFini }) {
   const [questions, setQuestions] = useState([]);
