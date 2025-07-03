@@ -7,6 +7,7 @@ import NavBar from './composants/NavBar.jsx'
 import Footer from './composants/Footer.jsx'
 import EspecesMenace from './Pages/EspecesMenace.jsx'
 import PageScore from './Pages/PageScore.jsx'
+import Agenda from './Pages/Agenda.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -16,6 +17,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/" element={<EspecesMenace />} />
         <Route path="/quiz" element={<App />} />
         <Route path="/page-score" element={<PageScore />} />
+        <Route path="/agenda" element={<Agenda />} />
       </Routes>
       <Footer />
     </BrowserRouter>

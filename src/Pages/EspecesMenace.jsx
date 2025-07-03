@@ -24,10 +24,13 @@ const EspecesMenace = () => {
 <br /><br/>
 
       <div className="especes-container">
+        
         <img src="/src/assets/Vaquita.png" alt="Vaquita" className="imageEspeces" />
+        
         <p className="vaquita-description">
-          <h2>Vaquita (Phocoena sinus)</h2>
-          <br/>
+          <bold className="vaquita"> Vaquita (Phocoena sinus)</bold>
+          
+          <br/><br/>
           
           Statut: en danger critique. 
           <br />
@@ -41,9 +44,11 @@ Menaces: captures accidentelles dans les filets illégaux destinés à la pêche
       
       <div className="especes-container">
         <img src="/src/assets/Tortue-imbrique.png" alt="TortueImbrique" className="imageEspeces" />
-        <p className="tortue-description"> <h2>Tortue imbriquée (Hawksbill Turtle)</h2>
+        <p className="tortue-description"> 
           
-          <br/>
+          <bold className="tortueImbrique">Tortue imbriquée (Hawksbill Turtle)</bold>
+          
+          <br/><br/>
 
           Statut: en danger critique. 
           <br />
@@ -57,9 +62,11 @@ Menaces: captures accidentelles dans les filets illégaux destinés à la pêche
 
       <div className="especes-container">
         <img src="/src/assets/Tortue-Luth.png" alt="TortueLuth" className="imageEspeces" />
-        <p className="tortue-luth-description"><h2>Tortue luth (Leatherback Turtle, Dermochelys coriacea)</h2>
+        <p className="tortue-luth-description">
           
-          <br/>
+          <bold className="tortueLuth">Tortue luth (Leatherback Turtle, Dermochelys coriacea)</bold>
+          
+          <br/><br/>
 
           Statut: vulnérable globalement, mais certaines sous-populations sont en danger critique.
 <br />
@@ -72,10 +79,12 @@ Menaces: collecte d’oeufs, captures accidentelles, collisions avec bâteaux, p
 
       <div className="especes-container">
         <img src="/src/assets/Baleine-Bleue.png" alt="BaleineBleu" className="imageEspeces" />
-        <p className="baleine-bleue-description"><h2>Baleine bleue (Blue Whale, Balaenoptera musculus)</h2>
+        <p className="baleine-bleue-description">
+          
+          <bold className="baleineBleue">Baleine bleue (Blue Whale, Balaenoptera musculus)</bold>
           
 
-          <br/>
+          <br/><br/>
           
           Statut: en danger.
 <br />
@@ -90,9 +99,11 @@ réchauffement planétaire. </p>
 
       <div className="especes-container">
         <img src="/src/assets/Requin-Baleine.png" alt="RequinBaleine" className="imageEspeces" />
-        <p className="requin-baleine-description"><h2>Requin-baleine (Whale Shorak, Rhincodon typus)</h2>
+        <p className="requin-baleine-description">
           
-          <br/>
+          <bold className="requinBaleine">Requin-baleine (Whale Shorak, Rhincodon typus)</bold>
+          
+          <br/><br/>
           
           Statut: en danger, selon l’UICN.
 <br />
@@ -102,16 +113,6 @@ tourisme non maîtrisé.
        </p>
        </div>
      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
     </main>
   );
 }

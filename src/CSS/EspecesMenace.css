@@ -65,9 +65,21 @@
 .tortue-luth-description,
 .baleine-bleue-description,
 .requin-baleine-description {
-    margin-left: 30px;
-    margin-top: 20px;
+    margin-left: 50px;
+    margin-top: 10px; 
     font-size: 15px;
     color: black;
+    font-family: cursive;
+}
+
+.vaquita,
+.tortueImbrique,
+.tortueLuth,
+.baleineBleue,
+.requinBaleine{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    font-size: 30px;
     font-family: cursive;
 }
