@@ -57,6 +57,7 @@ const handleAnswer = (answer) => {
 
 
     return (
+      
      <main> 
      
     <div className="Quiz-title">

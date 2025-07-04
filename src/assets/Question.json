@@ -39,7 +39,7 @@
         "Le poulpe",
         "L'étoile de mer",
         "La méduse",
-        "Le calmar"
+        "Le calamar"
       ],
       "correctAnswer": "Le poulpe",
       "explication": "Le poulpe est un céphalopode connu pour ses huit bras et sa grande intelligence."
@@ -110,6 +110,7 @@
       "correctAnswer": "Le poisson-lanterne",
       "explication": "Le poisson-lanterne possède une lumière bioluminescente sur sa tête, qui lui permet d'attirer ses proies dans les profondeurs sombres de l'océan."
     }
+  
   ]
 }
 

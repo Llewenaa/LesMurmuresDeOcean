@@ -1,0 +1,79 @@
+{
+    "agenda": [
+        {
+            "jour": "Lundi M",
+            "heure": "10h00 – 12h00 - Atelier de sensibilisation scolaire",
+            "public": "Elèves des écoles locales ",
+            "lieu": "Centre culturel maritime",
+            "contenu": "Initiation à la biodiversité marine et aux impacts de la pollution",
+            "heures": "14h00 – 16h00 - Nettoyage de plage",
+            "public ": "Bénévoles de tous âges ",
+            "lieu ": "Plage principale de la commune",
+            "objectif": "Collecte des déchets plastiques et tri des matériaux recyclables"
+        },
+
+        {
+            "jour": "Mardi",
+            "heure": "09h30 – 11h30 - Conférence sur les espèces marines locales",
+            "intervenant": "Biologiste marin",
+            "lieu": "Salle municipale",
+            "thèmes": "Espèces protégées, zones de reproduction, menaces actuelles",
+            "heures": "15h00 – 17h00 : Formation au tri des déchets et compostage",
+            "Public": "Habitants",
+            "Lieu": "Maison de l’environnement",
+            "But": "Réduire les déchets jetés en mer par une meilleure gestion domestique"
+        },
+
+        {
+            "jour": "Mercredi",
+            "heure": "Toute la journée",
+            "public": " étudiants et volontaires",
+            "Lieu de départ": "Port local",
+            "Objectifs": "Observation des habitats marins, collecte d’échantillons pour analyses"
+        },
+
+        {
+            "jour": "Jeudi",
+            "heure": "10h00 – 12h00 : Atelier de fabrication de produits écologiques",
+            "Public": "familles",
+            " Lieu": "Maison des associations. Exemple : fabrication de lessive naturelle, alternatives au plastique",
+            "heures": "18h00 – 19h30 : Projection-débat “Océans en danger",
+            "Lieu": "Cinéma local  Suivi d’un échange avec un expert en environnement marin"
+        },
+
+        {
+            "jour": "Vendredi",
+            "heure": "09h00 – 12h00 : Journée d’observation et nettoyage des fonds marins",
+            "Public": "plongeurs volontaires",
+            " Lieu ": "Site de plongée local",
+            "Objectif": "Retirer déchets enfouis et sensibiliser à la fragilité des fonds",
+            "heures": "15h00 – 17h00 : Réunion de la commission locale de préservation maritime",
+            "Lieu": "Hôtel de ville Discussion sur les projets en cours et planification future"
+        },
+
+        {
+            "jour": "Samedi",
+            "heure": "10h00 – 12h00 : Randonnée côtière et sensibilisation à l’érosion",
+            "Point de rendez-vous": "parking plage sud",
+            "Activité": "Balade guidée le long des falaises et dunes pour comprendre l’impact de l’érosion et l’importance de la végétation côtière.",
+            "heures": "14h00 – 17h00 Atelier découverte – Initiation à la plongée écologique",
+            " Lieu": "centre de plongée local",
+            "Contenu": "Initiation à la plongée avec un focus sur la préservation des récifs et la faune marine."
+        },
+
+        {
+            "jour": "Dimanche",
+            "Fréquence": "deux fois par an (Avril/Mai et septembre/Octobre)",
+            "Nom de l'événement": "Journée Bleue : Vigilance & Mer",
+            "Objectif principal": "Sensibiliser le grand public, les plaisanciers, les professionnels de la mer et les familles aux enjeux de la sécurité maritime, de la prévention des risques en mer et de la protection des vies humaines et de l’environnement marin.",
+            "Axes principaux de l'événement ": "1. Démonstrations et simulations: Simulations de sauvetage en mer par les équipes de la SNSM et des pompiers nautiques. Présentation des gestes de premiers secours spécifiques aux situations maritimes. Ateliers de mise en situation avec gilets de sauvetage, balises, VHF, etc. 2. Conférences & Tables rondes: Thèmes : météo marine, risques de noyade, courants dangereux, navigation responsable. Intervenants : professionnels de la mer, chercheurs, garde-côtes, victimes/survivants témoins. 3. Village de la prévention maritime: Stands interactifs : SNSM, Préfecture maritime, associations écologiques, météo marine, etc. Quiz, jeux pour enfants, simulateurs de navigation, ateliers de noeuds marins. 4. Challenge sécurité en mer: Compétition ludique entre équipes (familles, écoles de voile, plaisanciers) sur des épreuves de prévention (réagir à un homme à la mer, lecture météo, premiers gestes, etc.). 5. Hommage & engagement: Cérémonie d’hommage aux sauveteurs disparus et aux victimes de la mer. Signature symbolique d’une charte de sécurité maritime par les participants. ",
+            "Nom des deux éditions": "Journée Bleue de Printemps (avril/mai) – pour le lancement de la saison nautique. Journée Bleue d’Automne (septembre/octobre) – pour le bilan de la saison et préparation hivernale.",
+            "Lieu": "Port(s) partenaire(s), plages ou bases nautiques de France métropolitaine et DOM-TOM (événement décentralisé possible)."
+        }
+
+
+
+
+
+    ]
+}
